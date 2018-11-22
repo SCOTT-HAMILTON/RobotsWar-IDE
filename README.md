@@ -1,5 +1,5 @@
 
-![GitHub issue/pull request author](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg)
+![Cocoapods](https://img.shields.io/cocoapods/l/AFNetworking.svg)
 
 # RobotsWar-IDE
 The perfect IDE  to code in RobotScript, and you can code with the visual programming mode. If you're
